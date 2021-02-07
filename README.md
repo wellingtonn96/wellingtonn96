@@ -7,7 +7,7 @@
 <p>
   
 I'm Wellington, Full Stack developer, fascinated by programming focused on technologies like Node JS, React and React.    
-I believe that that if you love what you do you will never need to work in life. ... This is a phrase attributed to Steve Jobs
+I believe that that if you love what you do you will never need to work in life. ... This is a phrase attributed to Steve Jobs.
 </p>
 
 ### Where to find me:
